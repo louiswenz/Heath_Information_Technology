@@ -1,0 +1,21 @@
+name,check-in time,status,Progress,Location,Patients
+nurse 1,8:00 AM,active,view progress,view location, view patients
+nurse 2,9:00 AM,active,view progress,view location,view patients
+nurse 3,10:00 AM,active,view progress,view location,view patients
+nurse 4,11:00 AM,active,view progress,view location,view patients
+nurse 5,12:00 PM,active,view progress,view location,view patients
+nurse 6,1:00 PM,active,view progress,view location,view patients
+nurse 7,2:00 PM,active,view progress,view location,view patients
+nurse 8,3:00 PM,active,view progress,view location,view patients
+nurse 9,4:00 PM,active,view progress,view location,view patients
+nurse 10,5:00 PM,active,view progress,view location,view patients
+nurse 11,6:00 PM,active,view progress,view location,view patients
+nurse 12,7:00 PM,active,view progress,view location,view patients
+nurse 13,8:00 PM,active,view progress,view location,view patients
+nurse 14,9:00 PM,active,view progress,view location,view patients
+nurse 15,10:00 PM,active,view progress,view location,view patients
+nurse 16,11:00 PM,active,view progress,view location,view patients
+nurse 17,12:00 AM,active,view progress,view location,view patients
+nurse 18,1:00 AM,active,view progress,view location,view patients
+nurse 19,2:00 AM,active,view progress,view location,view patients
+nurse 20,3:00 AM,active,view progress,view location,view patients
